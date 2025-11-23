@@ -1,0 +1,14 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Build outputs
+out/
+*.class
+
+# Runtime data
+FleetData.db
+
+# OS-specific
+.DS_Store
+Thumbs.db
